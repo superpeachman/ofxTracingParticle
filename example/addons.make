@@ -1,3 +1,3 @@
-#ofxTracingParticle
-#ofxFft
-#ofxTracingParticle
+ofxTracingParticle
+ofxFft
+ofxTracingParticle
