@@ -1,3 +1,4 @@
 ofxTracingParticle
 ofxFft
 ofxTracingParticle
+ofxGui
