@@ -2,3 +2,4 @@ ofxTracingParticle
 ofxFft
 ofxTracingParticle
 ofxGui
+ofxEasing
